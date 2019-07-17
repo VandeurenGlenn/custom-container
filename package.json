@@ -1,0 +1,20 @@
+{
+  "name": "@vandeurenglenn/custom-container",
+  "version": "1.0.0",
+  "description": "",
+  "module": "custom-container.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandeurenglenn/custom-container.git"
+  },
+  "keywords": [],
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandeurenglenn/custom-container/issues"
+  },
+  "homepage": "https://github.com/vandeurenglenn/custom-container#readme"
+}
